@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "37zrt4A4a4o=",
+  "success": true,
+  "projectFilePath": "/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/Distribuidos.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/abigail/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0-rc.1.25451.107/microsoft.aspnetcore.openapi.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/abigail/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

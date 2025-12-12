@@ -1,0 +1,56 @@
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/bin/Debug/net8.0/appsettings.json
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api.deps.json
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api.runtimeconfig.json
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api.dll
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api.pdb
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.csproj.AssemblyReference.cache
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.AssemblyInfoInputs.cache
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.AssemblyInfo.cs
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.csproj.CoreCompileInputs.cache
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/staticwebassets/msbuild.Distribuidos.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Distribuidos.Api.props
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Distribuidos.Api.props
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Distribuidos.Api.props
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/scopedcss/bundle/Distribuidos.Api.styles.css
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribu.202F543F.Up2Date
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.dll
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/refint/Distribuidos.Api.dll
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.pdb
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.genruntimeconfig.cache
+/Users/abigail/10mo /distribuidos/net_app/Distribuidos.Api/obj/Debug/net8.0/ref/Distribuidos.Api.dll
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/bin/Debug/net8.0/appsettings.json
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api.deps.json
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api.runtimeconfig.json
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api.dll
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/bin/Debug/net8.0/Distribuidos.Api.pdb
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.csproj.AssemblyReference.cache
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.AssemblyInfoInputs.cache
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.AssemblyInfo.cs
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.csproj.CoreCompileInputs.cache
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/staticwebassets/msbuild.Distribuidos.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Distribuidos.Api.props
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Distribuidos.Api.props
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Distribuidos.Api.props
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/scopedcss/bundle/Distribuidos.Api.styles.css
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribu.202F543F.Up2Date
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.dll
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/refint/Distribuidos.Api.dll
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.pdb
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/Distribuidos.Api.genruntimeconfig.cache
+/Users/abigail/10mo/distribuidos/nuevoProyecto/pipedream/Distribuidos.Api/obj/Debug/net8.0/ref/Distribuidos.Api.dll
